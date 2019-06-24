@@ -1,2 +1,2 @@
 # FTP Project
-University Networks project (Lab 2).
+University project (Networks Lab 2).
